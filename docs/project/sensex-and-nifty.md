@@ -1,11 +1,11 @@
 ---
 title: Sensex and Nifty Trading
 lang: en-US
-tags: ['Android Development', 'UX Design']
+tags: ['Android Development', 'Desktop Development']
 thumbnail: ./sensex-thumb.png
 description: An app to provide direct access to real time stock market data.
 links: [{url: 'https://apk.support/app/com.omtayto.livestockandroid2', text: 'Get it on third party app store', icon: ['fas', 'store']}]
-info: [{key: 'Status', value: 'Discontinued'}, {key: 'Role', value: 'Freelance Android Engineer'}, {key: 'Employment', value: 'Omtayto, India'}, {key: 'Skills involved', value: ['Android SDK', 'UX Design']}, {key: 'Tech used', value: ['Java', 'Android SDK', 'Android Studio', 'Performance Monitor', 'Maven']}]
+info: [{key: 'Status', value: 'Discontinued'}, {key: 'Role', value: 'Freelance Android Engineer'}, {key: 'Employment', value: 'Omtayto, India'}, {key: 'Skills involved', value: ['Android SDK', 'Desktop Development']}, {key: 'Tech used', value: ['Java', 'Android SDK', 'Android Studio', 'Performance Monitor', 'Maven']}]
 date: 2018-02-01
 ---
 ![An image](/sensex.png)

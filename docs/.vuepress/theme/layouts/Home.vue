@@ -4,7 +4,7 @@
             <b-row>
                 <b-col class="text-center my-5">
                     <img :src="$page.frontmatter.avatar" alt="avatar" class="avatar mb-5 mt-4 medium-zoom">
-                    <h2 class="mb-4 display-4">Hi! I'm {{ $site.title }}</h2>
+                    <h2 class="mb-4 display-4">{{ $site.title }}</h2>
                     <div class="lead">
                         <Content />
                     </div>
@@ -27,7 +27,7 @@
             <h1 class="text-center mb-4">Skills Summary</h1>
             <div class="container">
                 <div class="row justify-content-center pt-2">
-                    <div class="col-12 col-lg-4" v-for="skill in $page.frontmatter.skills" :key="skill.title">
+                    <div class="col-12 col-lg-4" v-for="skill in $page.frontmatter.skills" :key="skill.title" >
                         <div class="rounded-lg bg-light pt-4 pb-2 mb-4">
                             <div class="px-4">
                                 <h4 class="mt-1">{{ skill.title }}</h4>
@@ -57,12 +57,12 @@
                         </div>
 
                         <transition-group class="projects" name="projects">
-                            <a class="project" v-if="shouldShowProject(project)" :href="project.path" v-for="project in projects" :key="project.path">
+                            <a class="project" v-if="shouldShowProject(project)" :href="project.path" v-for="project in projects" :key="project.path" >
                                 <img :src="project.frontmatter.thumbnail" alt="">
                                 <p class="lead px-3 pt-3 mb-1 font-weight-normal text-center">{{project.title}}</p>
                                 <p class="px-3 text-muted mb-2 clamp-2 text-center desc">{{ project.frontmatter.description }}</p>
                                 <div class="mx-3 mb-3 clamp-1 text-center">
-                                    <b-badge variant="light bg-light font-weight-normal" class="mr-1" v-for="tag in project.frontmatter.tags" :key="tag">{{ tag }}</b-badge>
+                                    <b-badge variant="light bg-light font-weight-normal" class="mr-1" v-for="tag in project.frontmatter.tags" :key="tag" >{{ tag }}</b-badge>
                                 </div>
                             </a>
                         </transition-group>

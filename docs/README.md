@@ -19,8 +19,8 @@ skills: [{title: 'Android Development', experience: '9 years experience', skills
     ]}]
 ---
 
-Professionally, I work as a Senior Android Engineer. My Android experiences span over eight years.
+En 2019 j'ai débuté une réorientation professionnelle  en tant que développeur web / web mobile à l'accès Code School, dont j'ai obtenu en juillet 2020 la certification BAC+2.
 
-Academically, my research focusses on medical image and signal processing towards the development of machine learning and statistical models. 
+Afin d'acquérir plus de connaissances dans le développement, j'ai continué sur une formation comme développeur d'applications orientées objets au SERFA de Mulhouse dont j'ai également obtenu la certification BAC+3 en septembre 2021.
 
 <br/>

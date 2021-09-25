@@ -1,7 +1,7 @@
 ---
 title: 	ForexAchievers Signals App
 lang: en-US
-tags: ['Android Development', 'UX Design']
+tags: ['Android Development', 'Desktop Development']
 thumbnail: ./forex-thumb.png
 description: An android app to get currency trading alerts and notifications
 links: [{url: 'https://play.google.com/store/apps/details?id=com.forexachievers.signals', text: 'Get it on Google Play', icon: ['fab', 'google-play']}]

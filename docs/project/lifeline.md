@@ -5,7 +5,7 @@ tags: ['Android Development', 'Web Development']
 thumbnail: ./lifeline-thumb.png
 description: An app and website to connect blood donors with the ones that are in need.
 links: [{url: 'https://www.facebook.com/lifelinebd', text: 'Visit facebook page', icon: ['fab', 'facebook']}]
-info: [{key: 'Status', value: 'Discontinued'}, {key: 'Role', value: 'Software Engineer and Architect'}, {key: 'Employment', value: 'Singularity Ltd, Bangladesh'}, {key: 'Skills involved', value: ['Android SDK', 'UX Design', 'Web Development', 'API Development']}, {key: 'Tech used', value: ['Java', 'Android SDK', 'PHP', 'Laravel', 'Google Maps API', 'Google Places API']}]
+info: [{key: 'Status', value: 'Discontinued'}, {key: 'Role', value: 'Software Engineer and Architect'}, {key: 'Employment', value: 'Singularity Ltd, Bangladesh'}, {key: 'Skills involved', value: ['Android SDK', 'Desktop Development', 'Web Development', 'API Development']}, {key: 'Tech used', value: ['Java', 'Android SDK', 'PHP', 'Laravel', 'Google Maps API', 'Google Places API']}]
 date: 2016-01-01
 ---
 ::: youtube https://www.youtube.com/embed/gfj5ZsERJlk

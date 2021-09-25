@@ -1,8 +1,7 @@
 ---
 title: Gesture Recognition Using EMG
 lang: en-US
-tags:
-    - Desktop Development
+tags: []
 thumbnail: ./gesture-thumb.png
 description: Deep learning model to recognize hand gestures from EMG signals.
 links:

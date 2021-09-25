@@ -1,11 +1,11 @@
 ---
 title: Photo Food Logger
 lang: en-US
-tags: ['Android Development', 'UX Design']
+tags: ['Android Development', 'Desktop Development']
 thumbnail: ./foodlog-thumb.png
 description: An app for IBS patients.
 links: [{url: 'https://apkpure.com/simpler-photo-food-logger/com.chaosplay.foodlogger', text: 'Get it on th', icon: ['fab', 'google-play']}]
-info: [{key: 'Role', value: 'Freelance Software Engineer'}, {key: 'Employment', value: 'Amer Khalid, India'}, {key: 'Skills involved', value: ['Android SDK', 'Custom View Development', 'Performance Analysis', 'UX Design']}, {key: 'Tech used', value: ['Java', 'Android SDK', 'Android Studio']}]
+info: [{key: 'Role', value: 'Freelance Software Engineer'}, {key: 'Employment', value: 'Amer Khalid, India'}, {key: 'Skills involved', value: ['Android SDK', 'Custom View Development', 'Performance Analysis', 'Desktop Development']}, {key: 'Tech used', value: ['Java', 'Android SDK', 'Android Studio']}]
 date: 2018-02-01
 ---
 ![An image](/foodlog.png)

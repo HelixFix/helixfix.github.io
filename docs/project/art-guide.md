@@ -3,7 +3,7 @@ title: Art Guide
 lang: en-US
 tags:
     - Android Development
-    - UX Design
+    - Desktop Development
 thumbnail: ./art-guide-thumb.png
 description: Learn how to draw with easy step-by-step animations and voiceovers.
 links:
@@ -34,7 +34,7 @@ info:
             - Computer Vision
             - API Development
             - Performance Analysis
-            - UX Design
+            - Desktop Development
             - Calculus
             - Geometry
     -

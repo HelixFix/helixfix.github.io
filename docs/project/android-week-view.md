@@ -1,11 +1,11 @@
 ---
 title: Android Week View
 lang: en-US
-tags: ['Android Development', 'UX Design']
+tags: ['Android Development', 'Desktop Development']
 thumbnail: ./android-week-view-thumb.png
 description: An android library to render calendars (week view or day view).
 links: [{url: 'https://github.com/alamkanak/Android-Week-View', text: 'View on Github', icon: ['fab', 'github']}]
-info: [{key: 'Role', value: 'Software Engineer and Architect'}, {key: 'Employment', value: 'Self employed'}, {key: 'Skills involved', value: ['Android SDK', 'Custom View Development', 'Performance Analysis', 'UX Design', 'Calculus', 'Geometry']}, {key: 'Tech used', value: ['Java', 'Android SDK', 'Android Studio', 'Performance Monitor', 'Maven', 'Gradle']}]
+info: [{key: 'Role', value: 'Software Engineer and Architect'}, {key: 'Employment', value: 'Self employed'}, {key: 'Skills involved', value: ['Android SDK', 'Custom View Development', 'Performance Analysis', 'Desktop Development', 'Calculus', 'Geometry']}, {key: 'Tech used', value: ['Java', 'Android SDK', 'Android Studio', 'Performance Monitor', 'Maven', 'Gradle']}]
 date: 2020-08-01
 ---
 ![An image](/android-week-view.png)
