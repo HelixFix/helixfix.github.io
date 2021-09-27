@@ -49,7 +49,7 @@
             <b-container>
                 <b-row>
                     <b-col class="my-5">
-                        <h1 class="mb-4 text-center">Noteworthy Projects</h1>
+                        <h1 class="mb-4 text-center">Travaux</h1>
                         <div class="text-center pt-3 mb-2">
                             <b-button-group label="" class="mb-4 flex-wrap">
                                 <b-button variant="success" v-for="tag in tags" :key="tag.value" v-bind:class="{active: selectedTag == tag.value}" @click="selectedTag = tag.value" class="mb-3 btn-theme">{{ tag.text }}</b-button>
