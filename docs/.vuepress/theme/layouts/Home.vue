@@ -10,7 +10,7 @@
                     </div>
 
                     <div v-if="typeof $site.themeConfig.social !== 'undefined'" class="mt-5">
-                        <h4 class="mb-4">Contact Me</h4>
+                        <h4 class="mb-4">Contactez-moi</h4>
                         <ul class="mb-4 social">
                             <li v-for="link in $site.themeConfig.social" :key="link.url" class="mx-3">
                                 <a :href="link.url" target="_blank">
@@ -24,7 +24,7 @@
         </b-container>
         <div v-if="typeof $page.frontmatter.skills !== 'undefined'" class="pb-4 skills">
             <div class="separator mb-5"></div>
-            <h1 class="text-center mb-4">Skills Summary</h1>
+            <h1 class="text-center mb-4">Résumé des compétences</h1>
             <div class="container">
                 <div class="row justify-content-center pt-2">
                     <div class="col-12 col-lg-4" v-for="skill in $page.frontmatter.skills" :key="skill.title" >
