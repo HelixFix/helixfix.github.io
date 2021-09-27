@@ -18,7 +18,7 @@ skills: [{title: "Développement Web et mobile", experience: "Certification BAC+
         ["Wordpress", "Worked with many CI, CD tools such as teamcity, bamboo, and bitbucket pipelines"]
     ]}, {title: "Développement Android et Desktop", experience: "Certification BAC+3", skills: [
         ["Environnement Linux", "Implémentation d'un serveur web sous Ubuntu"],
-        ["Conception et exploitation de bases de données", "In several of my projects, I employed OpenCV and traditional computer vision techniques in medical images"],
+        ["Conception et exploitation de bases de données", "Analyse et modélisation / Principes élémentaires et structure d'une base de données / Les bases de données MySQL / SQL"],
         ["Tensorflow", "Have used tensorflow extensively in several research projects"],
         ["Data processing", "Have numerous publications in the field of medical signal and image processing"],
         ["Data visualization", "Strive to produce meaningful and digestable visualization of big data"]
