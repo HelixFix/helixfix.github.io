@@ -1,18 +1,24 @@
 ---
 title: Portfolio
-lang: en-US
+lang: fr-FR
 layout: Home
 avatar: /avatar.jpg
-skills: [{title: 'Développement Web', experience: 'Certification BAC+2', skills: [
-        ['Android SDK', 'Have used all components of Android SDK in different projects'], 
-        ['Android NDK', 'Experienced with using Android NDK'], 
-        ['Unit testing', 'Strive for maximum code coverage using modern test-first development'],
-        ['Jetpack libraries', 'Highly accustomed to using the jetack libraries'],
-        ['RxJava and Kotlin Flow', 'Experienced in using both RxJava and Kotlin Flow in different projects'],
-        ['Continuous integration', 'Worked with many CI, CD tools such as teamcity, bamboo, and bitbucket pipelines']
-    ]}, {title: 'Développement Android et Desktop', experience: 'Certification BAC+3', skills: [
-        ['Classical machine learning', 'Accustomed to using various classical machine learning algorithms in different projects'],
-        ['Computer vision', 'In several of my projects, I employed OpenCV and traditional computer vision techniques in medical images'],
+skills: [{title: 'Développement Web et mobile', experience: 'Certification BAC+2', skills: [
+        ['HTML5 / CSS3', 'Have used all components of Android SDK in different projects'], 
+        ['JavaScript ES6', 'Experienced with using Android NDK'], 
+        ['Librairie Jquery', 'Strive for maximum code coverage using modern test-first development'],
+        ['Requêtes AJAX', 'Highly accustomed to using the jetack libraries'],
+        ['Format JSON', 'Experienced in using both RxJava and Kotlin Flow in different projects'],
+        ['PHP', 'Worked with many CI, CD tools such as teamcity, bamboo, and bitbucket pipelines'],
+        ['MYSQL', 'Worked with many CI, CD tools such as teamcity, bamboo, and bitbucket pipelines'],
+        ['Symfony', 'Worked with many CI, CD tools such as teamcity, bamboo, and bitbucket pipelines'],
+        ['GIT', 'Worked with many CI, CD tools such as teamcity, bamboo, and bitbucket pipelines'],
+        ['Bootstrap', 'Worked with many CI, CD tools such as teamcity, bamboo, and bitbucket pipelines'],
+        ['MVC', 'Worked with many CI, CD tools such as teamcity, bamboo, and bitbucket pipelines'],
+        ['Wordpress', 'Worked with many CI, CD tools such as teamcity, bamboo, and bitbucket pipelines']
+    ]}, {title: "Développement d'application", experience: 'Certification BAC+3', skills: [
+        ['Environnement Linux', 'Implémentation d un serveur web sous Ubuntu'],
+        ['Conception et exploitation de bases de données', 'In several of my projects, I employed OpenCV and traditional computer vision techniques in medical images'],
         ['Tensorflow', 'Have used tensorflow extensively in several research projects'],
         ['Data processing', 'Have numerous publications in the field of medical signal and image processing'],
         ['Data visualization', 'Strive to produce meaningful and digestable visualization of big data']
