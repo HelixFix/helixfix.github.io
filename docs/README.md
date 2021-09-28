@@ -25,7 +25,7 @@ skills: [{title: "Développement Web et mobile", experience: "Certification BAC+
     ]}]
 ---
 
-En 2019 j'ai débuté une réorientation professionnelle  en tant que développeur web / web mobile à l"accès Code School, dont j'ai obtenu en juillet 2020 la certification BAC+2.
+En 2019 j'ai débuté une réorientation professionnelle  en tant que développeur web / web mobile à l'accès Code School, dont j'ai obtenu en juillet 2020 la certification BAC+2.
 
 Afin d'acquérir plus de connaissances dans le développement, j'ai continué sur une formation comme développeur d'applications orientées objets au SERFA de Mulhouse dont j'ai également obtenu la certification BAC+3 en septembre 2021.
 

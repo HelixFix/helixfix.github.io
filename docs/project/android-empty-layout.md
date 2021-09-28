@@ -22,7 +22,7 @@ info:
     -
         key: Compétences impliquées
         value:
-            - Conception de base de données
+            - Conception et exploitation de base de données
             - Design de l’expérience utilisateur
             - Programmation orientée objet
     -
