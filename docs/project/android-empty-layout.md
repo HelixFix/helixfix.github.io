@@ -1,14 +1,37 @@
 ---
-title: Android Empty Layout
+title: Application Desktop touristique
 lang: en-US
-tags: ['Android Development']
+tags:
+    - Desktop Development
 thumbnail: ./android-empty-thumb.png
-description: An android library to show different empty states quickly in apps.
-links: [{url: 'https://github.com/alamkanak/android-empty-layout', text: 'View on Github', icon: ['fab', 'github']}]
-info: [{key: 'Role', value: 'Software Engineer and Architect'}, {key: 'Employment', value: 'Self employed'}, {key: 'Skills involved', value: ['Android SDK', 'Custom View Development']}, {key: 'Tech Used', value: ['Java', 'Android SDK', 'Android Studio']}]
-date: 2017-01-01
+description: Une application JAVA qui recense des points d'intérêts d'une ville.
+links:
+    -
+        url: 'https://github.com/HelixFix/PC-APP-Tourist'
+        text: View on Github
+        icon:
+            - fab
+            - github
+info:
+    -
+        key: Role
+        value: Software Engineer and Architect
+    -
+        key: Employment
+        value: Self employed
+    -
+        key: Compétences impliquées
+        value:
+            - Conception de base de données
+            - Design de l’expérience utilisateur
+            - Programmation orientée objet
+    -
+        key: Technologie utilisée
+        value:
+            - JavaFX
+date: 2017-01-01T00:00:00.000Z
 ---
-![An image](/android-empty.png)
+![An image](/StageTwo.gif)
 
 ::: tip HIGHLIGHT
 The library has over 600 stars on Github.
