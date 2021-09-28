@@ -3,7 +3,7 @@ title: Application Desktop touristique
 lang: en-US
 tags:
     - Desktop Development
-thumbnail: ./android-empty-thumb.png
+thumbnail: ./app-tourist-thumb.png
 description: Une application JAVA qui recense des points d'intérêts d'une ville.
 links:
     -
