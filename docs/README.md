@@ -4,24 +4,19 @@ lang: fr-FR
 layout: Home
 avatar: /avatar.jpg
 skills: [{title: "Développement Web et mobile", experience: "Certification BAC+2", skills: [
-        ["HTML5 / CSS3", "Have used all components of Android SDK in different projects"], 
-        ["JavaScript ES6", "Experienced with using Android NDK"], 
-        ["Librairie Jquery", "Strive for maximum code coverage using modern test-first development"],
-        ["Requêtes AJAX", "Highly accustomed to using the jetack libraries"],
-        ["Format JSON", "Experienced in using both RxJava and Kotlin Flow in different projects"],
-        ["PHP", "Worked with many CI, CD tools such as teamcity, bamboo, and bitbucket pipelines"],
-        ["MYSQL", "Worked with many CI, CD tools such as teamcity, bamboo, and bitbucket pipelines"],
-        ["Symfony", "Worked with many CI, CD tools such as teamcity, bamboo, and bitbucket pipelines"],
-        ["GIT", "Worked with many CI, CD tools such as teamcity, bamboo, and bitbucket pipelines"],
-        ["Bootstrap", "Worked with many CI, CD tools such as teamcity, bamboo, and bitbucket pipelines"],
-        ["MVC", "Worked with many CI, CD tools such as teamcity, bamboo, and bitbucket pipelines"],
-        ["Wordpress", "Worked with many CI, CD tools such as teamcity, bamboo, and bitbucket pipelines"]
+        ["Front-end", "HTML / CSS / JavaScript / JQuery / AJAX"], 
+        ["Back-end", "PHP / JSON / API"], 
+        ["Environnement de développement", "MVC, Visual Studio Code, GIT"],
+        ["CMS", "Wordpress"],
+        ["Framework", "Symfony / Bootstrap / Vue.js"],
+        ["Conception et exploitation de bases de données", "Modélisation UML / SQL"]
     ]}, {title: "Développement Android et Desktop", experience: "Certification BAC+3", skills: [
+        ["Programmation orientée objet", "Application des bonnes pratiques grâce au language JAVA"],
         ["Environnement Linux", "Implémentation d'un serveur web sous Ubuntu"],
         ["Conception et exploitation de bases de données", "Analyse et modélisation / Principes élémentaires et structure d'une base de données / Les bases de données MySQL / SQL"],
-        ["Outiller son développement avec un environnement de développement", "IntelliJ IDEA / Android Studio / Scene Builder"],
-        ["Data processing", "Have numerous publications in the field of medical signal and image processing"],
-        ["Data visualization", "Strive to produce meaningful and digestable visualization of big data"]
+        ["Environnement de développement", "IntelliJ IDEA / Android Studio / Scene Builder / GIT"],
+        ["Développer une solution mobile", "Concepts, ergonomie et interfaces"]
+        
     ]}]
 ---
 
