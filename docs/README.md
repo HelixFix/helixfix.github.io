@@ -11,7 +11,7 @@ skills: [{title: "Développement Web et mobile", experience: "Certification BAC+
         ["Framework", "Symfony / Bootstrap / Vue.js"],
         ["Conception et exploitation de bases de données", "Modélisation UML / SQL"]
     ]}, {title: "Développement Android et Desktop", experience: "Certification BAC+3", skills: [
-        ["Programmation orientée objet", "Application des bonnes pratiques grâce au language JAVA"],
+        ["Programmation orientée objet", "JAVA"],
         ["Environnement Linux", "Implémentation d'un serveur web sous Ubuntu"],
         ["Conception et exploitation de bases de données", "Analyse et modélisation / Principes élémentaires et structure d'une base de données / Les bases de données MySQL / SQL"],
         ["Environnement de développement", "IntelliJ IDEA / Android Studio / Scene Builder / GIT / Laragon"],
