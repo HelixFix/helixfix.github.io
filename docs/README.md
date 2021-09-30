@@ -6,7 +6,7 @@ avatar: /avatar.jpg
 skills: [{title: "Développement Web et mobile", experience: "Certification BAC+2", skills: [
         ["Front-end", "HTML / CSS / JavaScript / JQuery / AJAX"], 
         ["Back-end", "PHP / JSON / API"], 
-        ["Environnement de développement", "MVC, Visual Studio Code, GIT"],
+        ["Environnement de développement", "MVC, Visual Studio Code, GIT, Laragon"],
         ["CMS", "Wordpress"],
         ["Framework", "Symfony / Bootstrap / Vue.js"],
         ["Conception et exploitation de bases de données", "Modélisation UML / SQL"]
@@ -14,7 +14,7 @@ skills: [{title: "Développement Web et mobile", experience: "Certification BAC+
         ["Programmation orientée objet", "Application des bonnes pratiques grâce au language JAVA"],
         ["Environnement Linux", "Implémentation d'un serveur web sous Ubuntu"],
         ["Conception et exploitation de bases de données", "Analyse et modélisation / Principes élémentaires et structure d'une base de données / Les bases de données MySQL / SQL"],
-        ["Environnement de développement", "IntelliJ IDEA / Android Studio / Scene Builder / GIT"],
+        ["Environnement de développement", "IntelliJ IDEA / Android Studio / Scene Builder / GIT / Laragon"],
         ["Développer une solution mobile", "Concepts, ergonomie et interfaces"]
         
     ]}]
