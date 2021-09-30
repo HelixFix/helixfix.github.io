@@ -14,11 +14,11 @@ links:
             - github
 info:
     -
-        key: Role
-        value: Software Engineer and Architect
+        key: Rôle
+        value: Développeur d'application orientée objet
     -
-        key: Employment
-        value: Self employed
+        key: Contexte
+        value: Stage
     -
         key: Compétences impliquées
         value:
@@ -26,7 +26,7 @@ info:
             - Design de l’expérience utilisateur
             - Programmation orientée objet
     -
-        key: Technologie utilisée
+        key: Technologies utilisées
         value:
             - JavaFX
 date: 2017-01-01T00:00:00.000Z

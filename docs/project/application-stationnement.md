@@ -2,7 +2,7 @@
 title: Application de stationnement
 lang: fr-FR
 tags:
-    - Desktop Development
+    - Android Development
 thumbnail: ./android-week-view-thumb.png
 description: Application qui affiche les places de stationnement pour personne en situation de handicap sur la ville de Mulhouse
 links:
@@ -20,7 +20,7 @@ info:
         key: Employment
         value: Self employed
     -
-        key: Skills involved
+        key: Compétences impliquées
         value:
             - Android SDK
             - Custom View Development
@@ -29,11 +29,10 @@ info:
             - Calculus
             - Geometry
     -
-        key: Tech used
+        key: Technologies utilisées
         value:
             - React-native
             - Expo
-
 date: 2020-08-01T00:00:00.000Z
 ---
 ![An image](/android-week-view.png)
