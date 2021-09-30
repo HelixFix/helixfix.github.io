@@ -17,8 +17,8 @@ info:
         key: Role
         value: Software Engineer and Architect
     -
-        key: Employment
-        value: Self employed
+        key: Contexte
+        value: Apprenant
     -
         key: Compétences impliquées
         value:
