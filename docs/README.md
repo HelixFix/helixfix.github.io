@@ -15,7 +15,8 @@ skills: [{title: "Développement Web et mobile", experience: "Certification BAC+
         ["Environnement Linux", "Implémentation d'un serveur web sous Ubuntu"],
         ["Conception et exploitation de bases de données", "Analyse et modélisation / Principes élémentaires et structure d'une base de données / Les bases de données MySQL / SQL"],
         ["Environnement de développement", "IntelliJ IDEA / Android Studio / Scene Builder / GIT / Laragon"],
-        ["Développer une solution mobile", "Concepts, ergonomie et interfaces"]
+        ["Développer une solution mobile", "Concepts, ergonomie et interfaces"],
+        ["Framework", "Expo / React Native / JavaFX"],
         
     ]}]
 ---
