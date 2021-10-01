@@ -1,11 +1,28 @@
 ---
-title: 	ForexAchievers Signals Web
+title: ForexAchievers Signals Web
 lang: en-US
-tags: ['Web Development']
+tags:
+    - Web Development
 thumbnail: ./forex-web-thumb.png
 description: A website to manage forex signals and users.
-info: [{key: 'Role', value: 'Freelance Web Developer'}, {key: 'Employment', value: 'ForexAchievers, Singapore'}, {key: 'Skills involved', value: ['Web Development']}, {key: 'Tech used', value: ['Laravel', 'Google Billing API', 'iOS Billing API']}]
-date: 2018-04-01
+info:
+    -
+        key: Role
+        value: Freelance Web Developer
+    -
+        key: Employment
+        value: 'ForexAchievers, Singapore'
+    -
+        key: Skills involved
+        value:
+            - Web Development
+    -
+        key: Tech used
+        value:
+            - Laravel
+            - Google Billing API
+            - iOS Billing API
+date: '2020-12-04T15:55:29.000Z'
 ---
 ![An image](/forex-web.png)
 

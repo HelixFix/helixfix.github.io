@@ -1,5 +1,5 @@
 ---
-title: Speedtransfert
+title: WeTransfer Like
 lang: fr-FR
 tags:
     - Web Development
@@ -34,8 +34,8 @@ info:
         key: Tech used
         value:
             - Javascript
-date: '2020-01-20T16:11:41.000Z'
+date: '2019-12-04T00:00:00.000Z'
 ---
 ![An image](/android-libs.png)
 
-**WeTransfer Like** is a website developed for Android developers. The website is hosted on Github and in it, developers can easily find Android libraries they are looking for. The site supports searching by title, tags, authors or keywords.
+**Android libraries and resources** is a website developed for Android developers. The website is hosted on Github and in it, developers can easily find Android libraries they are looking for. The site supports searching by title, tags, authors or keywords.

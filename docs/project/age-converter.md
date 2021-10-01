@@ -1,12 +1,46 @@
 ---
 title: Convertisseur d'âge
 lang: en-US
-tags: ['Android Development', 'Desktop Development']
+tags:
+    - Android Development
+    - Desktop Development
 thumbnail: ./finance-bd-thumb.png
 description: An app to track your your stock market portfolio.
-links: [{url: 'https://hifipublic.com/2015/04/19/the-best-the-brightest-app-developers-of-bangladesh-honored/', text: 'View featured article', icon: ['fas', 'newspaper']}]
-info: [{key: 'Status', value: 'Discontinued'}, {key: 'Role', value: 'Founder and Software Engineer'}, {key: 'Employment', value: 'Self employed'}, {key: 'Skills involved', value: ['Android SDK', 'Custom View Development', 'Performance Analysis', 'Desktop Development', 'API Development']}, {key: 'Tech used', value: ['Java', 'Android SDK', 'Android Studio', 'Maven', 'PHP', 'Laravel']}]
-date: 2018-01-01
+links:
+    -
+        url: 'https://hifipublic.com/2015/04/19/the-best-the-brightest-app-developers-of-bangladesh-honored/'
+        text: View featured article
+        icon:
+            - fas
+            - newspaper
+info:
+    -
+        key: Status
+        value: Discontinued
+    -
+        key: Role
+        value: Founder and Software Engineer
+    -
+        key: Employment
+        value: Self employed
+    -
+        key: Skills involved
+        value:
+            - Android SDK
+            - Custom View Development
+            - Performance Analysis
+            - Desktop Development
+            - API Development
+    -
+        key: Tech used
+        value:
+            - Java
+            - Android SDK
+            - Android Studio
+            - Maven
+            - PHP
+            - Laravel
+date: '2020-02-03T00:00:00.000Z'
 ---
 ![An image](/finance-bd.png)
 

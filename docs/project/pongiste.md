@@ -1,12 +1,40 @@
 ---
 title: WeTransfer Like
 lang: fr-FR
-tags: ['Web Development']
+tags:
+    - Web Development
 thumbnail: ./android-libs-thumb.png
 description: A website for finding useful Android development libraries.
-links: [{url: 'https://github.com/alamkanak/android-libraries-and-resources', text: 'View on Github', icon: ['fab', 'github']}, {url: 'https://alamkanak.github.io/android-libraries-and-resources', text: 'Visit the site', icon: ['fas', 'home']}]
-info: [{key: 'Role', value: 'Web developer'}, {key: 'Employment', value: 'Self employed'}, {key: 'Skills involved', value: ['Web development', 'Desktop Development']}, {key: 'Tech used', value: ['Javascript']}]
-date: 2017-01-01
+links:
+    -
+        url: 'https://github.com/alamkanak/android-libraries-and-resources'
+        text: View on Github
+        icon:
+            - fab
+            - github
+    -
+        url: 'https://alamkanak.github.io/android-libraries-and-resources'
+        text: Visit the site
+        icon:
+            - fas
+            - home
+info:
+    -
+        key: Role
+        value: Web developer
+    -
+        key: Employment
+        value: Self employed
+    -
+        key: Skills involved
+        value:
+            - Web development
+            - Desktop Development
+    -
+        key: Tech used
+        value:
+            - Javascript
+date: '2021-02-27T16:06:15.000Z'
 ---
 ![An image](/android-libs.png)
 

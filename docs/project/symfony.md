@@ -1,15 +1,48 @@
 ---
 title: Projet Symfony
 lang: en-US
-tags: ['Android Development']
+tags:
+    - Android Development
 thumbnail: ./vyprvpn-thumb.png
 description: World's most powerful VPN app.
-links: [
-    {url: 'https://play.google.com/store/apps/details?id=com.goldenfrog.vyprvpn.app', text: 'Get it on Google Play', icon: ['fab', 'google-play']}, 
-    {url: 'https://www.vyprvpn.com/', text: 'Visit homepage', icon: ['fas', 'home']}
-]
-info: [{key: 'Role', value: 'Lead Software Engineer'}, {key: 'Employment', value: 'Golden Frog GmbH and Powerhouse Management Inc., TX, USA'}, {key: 'Skills involved', value: ['Android SDK', 'Custom View Development', 'Performance Analysis', 'Android NDK Development', 'Continuous Integration']}, {key: 'Tech used', value: ['Java', 'Kotlin', 'Android SDK', 'Android NDK', 'Bamboo', 'Performance Monitor']}]
-date: 2019-12-01
+links:
+    -
+        url: 'https://play.google.com/store/apps/details?id=com.goldenfrog.vyprvpn.app'
+        text: Get it on Google Play
+        icon:
+            - fab
+            - google-play
+    -
+        url: 'https://www.vyprvpn.com/'
+        text: Visit homepage
+        icon:
+            - fas
+            - home
+info:
+    -
+        key: Role
+        value: Lead Software Engineer
+    -
+        key: Employment
+        value: 'Golden Frog GmbH and Powerhouse Management Inc., TX, USA'
+    -
+        key: Skills involved
+        value:
+            - Android SDK
+            - Custom View Development
+            - Performance Analysis
+            - Android NDK Development
+            - Continuous Integration
+    -
+        key: Tech used
+        value:
+            - Java
+            - Kotlin
+            - Android SDK
+            - Android NDK
+            - Bamboo
+            - Performance Monitor
+date: '2020-04-14T23:00:00.000Z'
 ---
 ![An image](/vyprvpn.png)
 

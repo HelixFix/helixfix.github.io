@@ -1,12 +1,43 @@
 ---
 title: Dictionnaire balise HTML
 lang: en-US
-tags: ['Android Development', 'Desktop Development']
+tags:
+    - Android Development
+    - Desktop Development
 thumbnail: ./easy-greeting-thumb.png
 description: An Android app that allows creating custom greeting cards.
-links: [{url: 'https://apkpure.com/easy-greeting-maker/com.mobiobject.easygreetingmaker.app', text: 'Get it on third party app store', icon: ['fas', 'store']}]
-info: [{key: 'Status', value: 'Discontinued'}, {key: 'Role', value: 'Freelance Software Engineer'}, {key: 'Employment', value: 'Mobi Object, India'}, {key: 'Skills involved', value: ['Android SDK', 'Custom View Development', 'Performance Analysis', 'Desktop Development', 'API Development']}, {key: 'Tech used', value: ['Java', 'Android SDK', 'Laravel']}]
-date: 2017-01-01
+links:
+    -
+        url: 'https://apkpure.com/easy-greeting-maker/com.mobiobject.easygreetingmaker.app'
+        text: Get it on third party app store
+        icon:
+            - fas
+            - store
+info:
+    -
+        key: Status
+        value: Discontinued
+    -
+        key: Role
+        value: Freelance Software Engineer
+    -
+        key: Employment
+        value: 'Mobi Object, India'
+    -
+        key: Skills involved
+        value:
+            - Android SDK
+            - Custom View Development
+            - Performance Analysis
+            - Desktop Development
+            - API Development
+    -
+        key: Tech used
+        value:
+            - Java
+            - Android SDK
+            - Laravel
+date: '2019-11-08T15:54:26.000Z'
 ---
 ![An image](/easy-greeting.png)
 

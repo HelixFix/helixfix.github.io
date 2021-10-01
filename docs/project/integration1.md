@@ -1,12 +1,39 @@
 ---
-title: Premier projet d'intégration
+title: Premier projet d'intégration BlueEasy
 lang: en-US
-tags: ['Android Development', 'Desktop Development']
+tags:
+    - Android Development
+    - Desktop Development
 thumbnail: ./foodlog-thumb.png
 description: An app for IBS patients.
-links: [{url: 'https://apkpure.com/simpler-photo-food-logger/com.chaosplay.foodlogger', text: 'Get it on th', icon: ['fab', 'google-play']}]
-info: [{key: 'Role', value: 'Freelance Software Engineer'}, {key: 'Employment', value: 'Amer Khalid, India'}, {key: 'Skills involved', value: ['Android SDK', 'Custom View Development', 'Performance Analysis', 'Desktop Development']}, {key: 'Tech used', value: ['Java', 'Android SDK', 'Android Studio']}]
-date: 2018-02-01
+links:
+    -
+        url: 'https://apkpure.com/simpler-photo-food-logger/com.chaosplay.foodlogger'
+        text: Get it on th
+        icon:
+            - fab
+            - google-play
+info:
+    -
+        key: Role
+        value: Freelance Software Engineer
+    -
+        key: Employment
+        value: 'Amer Khalid, India'
+    -
+        key: Skills involved
+        value:
+            - Android SDK
+            - Custom View Development
+            - Performance Analysis
+            - Desktop Development
+    -
+        key: Tech used
+        value:
+            - Java
+            - Android SDK
+            - Android Studio
+date: '2019-11-19T00:00:00.000Z'
 ---
 ![An image](/foodlog.png)
 

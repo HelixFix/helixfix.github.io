@@ -1,12 +1,52 @@
 ---
 title: Series Addict
 lang: en-US
-tags: ['Android Development', 'Desktop Development']
+tags:
+    - Android Development
+    - Desktop Development
 thumbnail: ./series-addict-thumb.png
 description: An app to track your favorite TV shows.
-links: [{url: 'https://play.google.com/store/apps/details?id=com.alamkanak.seriesaddict', text: 'Get it on Google Play', icon: ['fab', 'google-play']}, {url: 'https://alamkanak.github.io/Series-Addict-App-Page/', text: 'Visit Homepage', icon: ['fas', 'home']}]
-info: [{key: 'Role', value: 'Founder and Software Engineer'}, {key: 'Employment', value: 'Self employed'}, {key: 'Skills involved', value: ['Android SDK', 'Custom View Development', 'Performance Analysis', 'Desktop Development', 'Calculus', 'Geometry', 'Subscription Billing']}, {key: 'Tech used', value: ['Kotlin', 'Android SDK', 'Android Studio', 'RxJava', 'Performance Monitor', 'Maven', 'Google In App Billing']}]
-date: 2020-10-01
+links:
+    -
+        url: 'https://play.google.com/store/apps/details?id=com.alamkanak.seriesaddict'
+        text: Get it on Google Play
+        icon:
+            - fab
+            - google-play
+    -
+        url: 'https://alamkanak.github.io/Series-Addict-App-Page/'
+        text: Visit Homepage
+        icon:
+            - fas
+            - home
+info:
+    -
+        key: Role
+        value: Founder and Software Engineer
+    -
+        key: Employment
+        value: Self employed
+    -
+        key: Skills involved
+        value:
+            - Android SDK
+            - Custom View Development
+            - Performance Analysis
+            - Desktop Development
+            - Calculus
+            - Geometry
+            - Subscription Billing
+    -
+        key: Tech used
+        value:
+            - Kotlin
+            - Android SDK
+            - Android Studio
+            - RxJava
+            - Performance Monitor
+            - Maven
+            - Google In App Billing
+date: '2020-04-22T00:00:00.000Z'
 ---
 ![Series Addictt](/series-addict.png)
 

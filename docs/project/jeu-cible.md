@@ -1,5 +1,5 @@
 ---
-title: Panier JavaScript
+title: Jeu clique sur cible
 lang: en-US
 tags:
     - Android Development
@@ -35,7 +35,7 @@ info:
             - Dagger
             - RxJava
             - Google In App Billing
-date: '2021-03-08T16:03:35.000Z'
+date: '2021-06-21T15:03:35.000Z'
 ---
 ![An image](/forex.png)
 

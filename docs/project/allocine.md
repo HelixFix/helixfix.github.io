@@ -44,7 +44,7 @@ info:
             - Coroutines
             - Android Architecture Components
             - Android SDK
-date: 2021-09-01T00:00:00.000Z
+date: '2020-02-14T01:00:00.000Z'
 ---
 ![Art Guide](/art-guide.png)
 

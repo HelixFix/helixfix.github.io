@@ -32,7 +32,7 @@ info:
             - Python
             - MATLAB
             - Tensorflow
-date: 2018-01-01T00:00:00.000Z
+date: '2020-01-10T00:00:00.000Z'
 ---
 ![An image](/gesture.png)
 

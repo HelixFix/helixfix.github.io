@@ -1,12 +1,58 @@
 ---
 title: Projet d'inauguration ACS
 lang: fr-FR
-tags: ['Android Development', 'Desktop Development']
+tags:
+    - Android Development
+    - Desktop Development
 thumbnail: ./coursemate-thumb.png
 description: An app for students to track academic course curriculum.
-links: [{url: 'https://www.thedailystar.net/news/buet-team-wins-eatl-app-contest', text: 'View featured article', icon: ['fas', 'newspaper']}, {url: 'https://www.eatlbd.com/index.php?r=site/contest2013', text: 'Visit competition results', icon: ['fas', 'trophy']}, {url: 'http://eatlapps.com/appsearch/details/108', text: 'Download APK', icon: ['fas', 'rocket']}]
-info: [{key: 'Status', value: 'Discontinued'}, {key: 'Role', value: 'Software Engineer and Architect'}, {key: 'Employment', value: 'Self employed'}, {key: 'Skills involved', value: ['Android SDK', 'Custom View Development', 'Performance Analysis', 'Desktop Development', 'Calculus', 'Geometry']}, {key: 'Tech used', value: ['Java', 'Android SDK', 'Eclipse', 'Performance Monitor', 'Maven']}]
-date: 2013-10-01
+links:
+    -
+        url: 'https://www.thedailystar.net/news/buet-team-wins-eatl-app-contest'
+        text: View featured article
+        icon:
+            - fas
+            - newspaper
+    -
+        url: 'https://www.eatlbd.com/index.php?r=site/contest2013'
+        text: Visit competition results
+        icon:
+            - fas
+            - trophy
+    -
+        url: 'http://eatlapps.com/appsearch/details/108'
+        text: Download APK
+        icon:
+            - fas
+            - rocket
+info:
+    -
+        key: Status
+        value: Discontinued
+    -
+        key: Role
+        value: Software Engineer and Architect
+    -
+        key: Employment
+        value: Self employed
+    -
+        key: Skills involved
+        value:
+            - Android SDK
+            - Custom View Development
+            - Performance Analysis
+            - Desktop Development
+            - Calculus
+            - Geometry
+    -
+        key: Tech used
+        value:
+            - Java
+            - Android SDK
+            - Eclipse
+            - Performance Monitor
+            - Maven
+date: '2019-12-30T15:57:50.000Z'
 ---
 ![Course Mate](/coursemate.png)
 
