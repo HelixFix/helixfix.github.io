@@ -2,7 +2,7 @@
 title: WeTransfer Like
 lang: fr-FR
 tags:
-    - Web Development
+    - Desktop Development
 thumbnail: ./android-libs-thumb.png
 description: A website for finding useful Android development libraries.
 links:

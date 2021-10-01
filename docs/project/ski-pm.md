@@ -2,8 +2,7 @@
 title: Series Addict
 lang: en-US
 tags:
-    - Android Development
-    - Desktop Development
+    - Web Development
 thumbnail: ./series-addict-thumb.png
 description: An app to track your favorite TV shows.
 links:

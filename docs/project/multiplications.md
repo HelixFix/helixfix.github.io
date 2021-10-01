@@ -1,7 +1,8 @@
 ---
 title: Tables de multiplications
 lang: en-US
-tags: []
+tags:
+    - Web Development
 thumbnail: ./gesture-thumb.png
 description: Deep learning model to recognize hand gestures from EMG signals.
 links:

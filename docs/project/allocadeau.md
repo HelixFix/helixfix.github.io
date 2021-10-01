@@ -2,8 +2,7 @@
 title: Sensex and Nifty Trading
 lang: en-US
 tags:
-    - Android Development
-    - Desktop Development
+    - Web Development
 thumbnail: ./sensex-thumb.png
 description: An app to provide direct access to real time stock market data.
 links:

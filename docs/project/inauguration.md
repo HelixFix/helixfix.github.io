@@ -2,8 +2,7 @@
 title: Projet d'inauguration ACS
 lang: fr-FR
 tags:
-    - Android Development
-    - Desktop Development
+    - Web Development
 thumbnail: ./coursemate-thumb.png
 description: An app for students to track academic course curriculum.
 links:

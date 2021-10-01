@@ -2,8 +2,7 @@
 title: Jeu clique sur cible
 lang: en-US
 tags:
-    - Android Development
-    - Desktop Development
+    - Web Development
 thumbnail: ./forex-thumb.png
 description: An android app to get currency trading alerts and notifications
 links:

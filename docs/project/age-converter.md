@@ -2,8 +2,7 @@
 title: Convertisseur d'âge
 lang: en-US
 tags:
-    - Android Development
-    - Desktop Development
+    - Web Development
 thumbnail: ./finance-bd-thumb.png
 description: An app to track your your stock market portfolio.
 links:

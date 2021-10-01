@@ -2,8 +2,7 @@
 title: Dictionnaire balise HTML
 lang: en-US
 tags:
-    - Android Development
-    - Desktop Development
+    - Web Development
 thumbnail: ./easy-greeting-thumb.png
 description: An Android app that allows creating custom greeting cards.
 links:

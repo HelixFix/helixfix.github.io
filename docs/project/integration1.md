@@ -2,8 +2,7 @@
 title: Premier projet d'intégration BlueEasy
 lang: en-US
 tags:
-    - Android Development
-    - Desktop Development
+    - Web Development
 thumbnail: ./foodlog-thumb.png
 description: An app for IBS patients.
 links:

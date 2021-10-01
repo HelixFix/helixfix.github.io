@@ -2,7 +2,7 @@
 title: Projet Symfony
 lang: en-US
 tags:
-    - Android Development
+    - Web Development
 thumbnail: ./vyprvpn-thumb.png
 description: World's most powerful VPN app.
 links:
