@@ -9,7 +9,7 @@
                     </a>
                 </li>
             </ul>
-            <p>This website was made on ViewPress with ❤️ by Jérôme RINNER. Love the site? <a href="https://github.com/helixfix/Viewpress-Portfolio-Theme" target="_blank">Fork it on Github.</a></p>
+            <p>This website was made on VuePress with ❤️ by Jérôme RINNER.</p>
         </footer>
     </div>
 </template>
