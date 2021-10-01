@@ -1,9 +1,8 @@
 ---
-title: Art Guide
-lang: en-US
+title: Allociné Like
+lang: fr-FR
 tags:
-    - Android Development
-    - Desktop Development
+    - Web Development
 thumbnail: ./art-guide-thumb.png
 description: Learn how to draw with easy step-by-step animations and voiceovers.
 links:

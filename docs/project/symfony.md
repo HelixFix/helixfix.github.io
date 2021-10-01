@@ -1,5 +1,5 @@
 ---
-title: VyprVPN
+title: Projet Symfony
 lang: en-US
 tags: ['Android Development']
 thumbnail: ./vyprvpn-thumb.png

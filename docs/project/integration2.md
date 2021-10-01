@@ -1,5 +1,5 @@
 ---
-title: Lifeline
+title: Second projet d'intégration
 lang: en-US
 tags: ['Android Development', 'Web Development']
 thumbnail: ./lifeline-thumb.png

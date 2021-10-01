@@ -1,5 +1,5 @@
 ---
-title: Gesture Recognition Using EMG
+title: Tables de multiplications
 lang: en-US
 tags: []
 thumbnail: ./gesture-thumb.png

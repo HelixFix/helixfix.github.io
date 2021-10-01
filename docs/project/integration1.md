@@ -1,5 +1,5 @@
 ---
-title: Photo Food Logger
+title: Premier projet d'intégration
 lang: en-US
 tags: ['Android Development', 'Desktop Development']
 thumbnail: ./foodlog-thumb.png

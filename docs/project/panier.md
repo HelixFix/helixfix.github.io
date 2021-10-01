@@ -1,5 +1,5 @@
 ---
-title: 	ForexAchievers Signals App
+title: 	Panier JavaScript
 lang: en-US
 tags: ['Android Development', 'Desktop Development']
 thumbnail: ./forex-thumb.png

@@ -1,5 +1,5 @@
 ---
-title: Personal Portfolio Website
+title: Première version du portfolio
 lang: en-US
 tags: ['Web Development']
 thumbnail: ./portfolio-thumb.png

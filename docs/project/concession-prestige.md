@@ -1,7 +1,7 @@
 ---
-title: Android Libraries and Resources
-lang: en-US
-tags: ['Web Development', 'Desktop Development']
+title: WeTransfer Like
+lang: fr-FR
+tags: ['Web Development']
 thumbnail: ./android-libs-thumb.png
 description: A website for finding useful Android development libraries.
 links: [{url: 'https://github.com/alamkanak/android-libraries-and-resources', text: 'View on Github', icon: ['fab', 'github']}, {url: 'https://alamkanak.github.io/android-libraries-and-resources', text: 'Visit the site', icon: ['fas', 'home']}]

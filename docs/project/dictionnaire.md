@@ -1,5 +1,5 @@
 ---
-title: Easy Greeting Maker
+title: Dictionnaire balise HTML
 lang: en-US
 tags: ['Android Development', 'Desktop Development']
 thumbnail: ./easy-greeting-thumb.png
