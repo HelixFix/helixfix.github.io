@@ -3,7 +3,7 @@ title: Portfolio
 lang: fr-FR
 layout: Home
 avatar: /avatar.jpg
-skills: [{title: "Développement Web et mobile", experience: "Certification BAC+2", skills: [
+skills: [{title: "Développement Web et web mobile", experience: "Certification BAC+2", skills: [
         ["Front-end", "HTML / CSS / JavaScript / JQuery / AJAX"], 
         ["Back-end", "PHP / JSON / API"], 
         ["Environnement de développement", "MVC, Visual Studio Code, GIT, Laragon"],

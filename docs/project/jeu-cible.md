@@ -1,10 +1,10 @@
 ---
-title: Jeu clique sur cible
+title: Troll Hunter
 lang: en-US
 tags:
     - Web Development
-thumbnail: ./forex-thumb.png
-description: An android app to get currency trading alerts and notifications
+thumbnail: ./troll-thumb.png
+description: Jeu JavaScript de clique sur cible
 links:
     -
         url: 'https://play.google.com/store/apps/details?id=com.forexachievers.signals'
@@ -28,15 +28,10 @@ info:
     -
         key: Tech used
         value:
-            - Kotlin
-            - Android SDK
-            - Jetpack Libraries
-            - Dagger
-            - RxJava
-            - Google In App Billing
+            - JavaScript
 date: '2021-06-21T15:03:35.000Z'
 ---
-![An image](/forex.png)
+![An image](/Troll.gif)
 
 ForexAchievers Signals provide you with currency trading alerts and notifications direct to your mobile device.
 
