@@ -1,6 +1,6 @@
 ---
 title: Projet Symfony
-lang: en-US
+lang: fr-FR
 tags:
     - Web Development
 thumbnail: ./vyprvpn-thumb.png
@@ -20,13 +20,13 @@ links:
             - home
 info:
     -
-        key: Role
+        key: Rôle
         value: Lead Software Engineer
     -
         key: Employment
         value: 'Golden Frog GmbH and Powerhouse Management Inc., TX, USA'
     -
-        key: Skills involved
+        key: Compétences impliquées
         value:
             - Android SDK
             - Custom View Development
@@ -34,7 +34,7 @@ info:
             - Android NDK Development
             - Continuous Integration
     -
-        key: Tech used
+        key: Technologies utilisées
         value:
             - Java
             - Kotlin

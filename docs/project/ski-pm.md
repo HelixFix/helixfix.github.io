@@ -1,6 +1,6 @@
 ---
 title: Series Addict
-lang: en-US
+lang: fr-FR
 tags:
     - Web Development
 thumbnail: ./series-addict-thumb.png
@@ -20,13 +20,13 @@ links:
             - home
 info:
     -
-        key: Role
+        key: Rôle
         value: Founder and Software Engineer
     -
         key: Employment
         value: Self employed
     -
-        key: Skills involved
+        key: Compétences impliquées
         value:
             - Android SDK
             - Custom View Development
@@ -36,7 +36,7 @@ info:
             - Geometry
             - Subscription Billing
     -
-        key: Tech used
+        key: Technologies utilisées
         value:
             - Kotlin
             - Android SDK

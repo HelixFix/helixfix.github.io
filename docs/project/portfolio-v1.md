@@ -1,6 +1,6 @@
 ---
 title: Première version du portfolio
-lang: en-US
+lang: fr-FR
 tags:
     - Web Development
 thumbnail: ./portfolio-thumb.png
@@ -14,17 +14,17 @@ links:
             - home
 info:
     -
-        key: Role
+        key: Rôle
         value: Web developer
     -
         key: Employment
         value: Self employed
     -
-        key: Skills involved
+        key: Compétences impliquées
         value:
             - Web development
     -
-        key: Tech used
+        key: Technologies utilisées
         value:
             - Javascript
             - Vue.js

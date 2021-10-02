@@ -1,6 +1,6 @@
 ---
 title: Tables de multiplications
-lang: en-US
+lang: fr-FR
 tags:
     - Web Development
 thumbnail: ./gesture-thumb.png
@@ -17,18 +17,18 @@ info:
         key: DOI
         value: 10.1109/ICEAST.2018.8434493
     -
-        key: Role
+        key: Rôle
         value: Lead researcher
     -
         key: Affiliation
         value: Bangladesh University of Engineering and Technology (BUET)
     -
-        key: Skills involved
+        key: Compétences impliquées
         value:
             - Signal processing
             - Machine learning
     -
-        key: Tech used
+        key: Technologies utilisées
         value:
             - Python
             - MATLAB

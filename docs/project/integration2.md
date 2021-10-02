@@ -1,6 +1,6 @@
 ---
 title: Second projet d'intégration ACS
-lang: en-US
+lang: fr-FR
 tags:
     - Web Development
 thumbnail: ./lifeline-thumb.png
@@ -17,20 +17,20 @@ info:
         key: Status
         value: Discontinued
     -
-        key: Role
+        key: Rôle
         value: Software Engineer and Architect
     -
         key: Employment
         value: 'Singularity Ltd, Bangladesh'
     -
-        key: Skills involved
+        key: Compétences impliquées
         value:
             - Android SDK
             - Desktop Development
             - Web Development
             - API Development
     -
-        key: Tech used
+        key: Technologies utilisées
         value:
             - Java
             - Android SDK

@@ -1,6 +1,6 @@
 ---
 title: Application Desktop touristique
-lang: en-US
+lang: fr-FR
 tags:
     - Desktop Development
 thumbnail: ./app-tourist-thumb.png

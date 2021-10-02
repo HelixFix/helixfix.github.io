@@ -1,6 +1,6 @@
 ---
 title: Dictionnaire balise HTML
-lang: en-US
+lang: fr-FR
 tags:
     - Web Development
 thumbnail: ./easy-greeting-thumb.png
@@ -17,13 +17,13 @@ info:
         key: Status
         value: Discontinued
     -
-        key: Role
+        key: Rôle
         value: Freelance Software Engineer
     -
         key: Employment
         value: 'Mobi Object, India'
     -
-        key: Skills involved
+        key: Compétences impliquées
         value:
             - Android SDK
             - Custom View Development
@@ -31,7 +31,7 @@ info:
             - Desktop Development
             - API Development
     -
-        key: Tech used
+        key: Technologies utilisées
         value:
             - Java
             - Android SDK

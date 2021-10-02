@@ -1,6 +1,6 @@
 ---
 title: Sensex and Nifty Trading
-lang: en-US
+lang: fr-FR
 tags:
     - Web Development
 thumbnail: ./sensex-thumb.png
@@ -17,18 +17,18 @@ info:
         key: Status
         value: Discontinued
     -
-        key: Role
+        key: Rôle
         value: Freelance Android Engineer
     -
         key: Employment
         value: 'Omtayto, India'
     -
-        key: Skills involved
+        key: Compétences impliquées
         value:
             - Android SDK
             - Desktop Development
     -
-        key: Tech used
+        key: Technologies utilisées
         value:
             - Java
             - Android SDK

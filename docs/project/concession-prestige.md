@@ -20,18 +20,18 @@ links:
             - home
 info:
     -
-        key: Role
+        key: Rôle
         value: Web developer
     -
         key: Employment
         value: Self employed
     -
-        key: Skills involved
+        key: Compétences impliquées
         value:
             - Web development
             - Desktop Development
     -
-        key: Tech used
+        key: Technologies utilisées
         value:
             - Javascript
 date: '2021-05-05T14:52:54.000Z'

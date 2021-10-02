@@ -1,6 +1,6 @@
 ---
 title: Panier JavaScript
-lang: en-US
+lang: fr-FR
 tags:
     - Web Development
 thumbnail: ./forex-thumb.png
@@ -14,19 +14,19 @@ links:
             - google-play
 info:
     -
-        key: Role
+        key: Rôle
         value: Freelance Software Engineer
     -
         key: Employment
         value: 'ForexAchievers, Singapore'
     -
-        key: Skills involved
+        key: Compétences impliquées
         value:
             - Android Development
             - Performance Analysis
             - Subscription Billing
     -
-        key: Tech used
+        key: Technologies utilisées
         value:
             - Kotlin
             - Android SDK

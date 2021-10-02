@@ -1,23 +1,23 @@
 ---
 title: ForexAchievers Signals Web
-lang: en-US
+lang: fr-FR
 tags:
     - Web Development
 thumbnail: ./forex-web-thumb.png
 description: A website to manage forex signals and users.
 info:
     -
-        key: Role
+        key: Rôle
         value: Freelance Web Developer
     -
         key: Employment
         value: 'ForexAchievers, Singapore'
     -
-        key: Skills involved
+        key: Compétences impliquées
         value:
             - Web Development
     -
-        key: Tech used
+        key: Technologies utilisées
         value:
             - Laravel
             - Google Billing API

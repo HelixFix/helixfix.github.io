@@ -1,6 +1,6 @@
 ---
 title: Convertisseur d'âge
-lang: en-US
+lang: fr-FR
 tags:
     - Web Development
 thumbnail: ./finance-bd-thumb.png
@@ -17,13 +17,13 @@ info:
         key: Status
         value: Discontinued
     -
-        key: Role
+        key: Rôle
         value: Founder and Software Engineer
     -
         key: Employment
         value: Self employed
     -
-        key: Skills involved
+        key: Compétences impliquées
         value:
             - Android SDK
             - Custom View Development
@@ -31,7 +31,7 @@ info:
             - Desktop Development
             - API Development
     -
-        key: Tech used
+        key: Technologies utilisées
         value:
             - Java
             - Android SDK

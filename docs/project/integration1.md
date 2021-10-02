@@ -1,6 +1,6 @@
 ---
 title: Premier projet d'intégration BlueEasy
-lang: en-US
+lang: fr-FR
 tags:
     - Web Development
 thumbnail: ./foodlog-thumb.png
@@ -14,20 +14,20 @@ links:
             - google-play
 info:
     -
-        key: Role
+        key: Rôle
         value: Freelance Software Engineer
     -
         key: Employment
         value: 'Amer Khalid, India'
     -
-        key: Skills involved
+        key: Compétences impliquées
         value:
             - Android SDK
             - Custom View Development
             - Performance Analysis
             - Desktop Development
     -
-        key: Tech used
+        key: Technologies utilisées
         value:
             - Java
             - Android SDK

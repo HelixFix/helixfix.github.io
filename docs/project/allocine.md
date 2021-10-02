@@ -20,13 +20,13 @@ links:
             - home
 info:
     -
-        key: Role
+        key: Rôle
         value: Creator and Lead Software Engineer
     -
         key: Employment
         value: Self employed
     -
-        key: Skills involved
+        key: Compétences impliquées
         value:
             - Android SDK
             - Custom View Development
@@ -37,7 +37,7 @@ info:
             - Calculus
             - Geometry
     -
-        key: Tech used
+        key: Technologies utilisées
         value:
             - Kotlin
             - Dagger

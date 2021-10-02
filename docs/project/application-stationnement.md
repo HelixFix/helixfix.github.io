@@ -14,7 +14,7 @@ links:
             - github
 info:
     -
-        key: Role
+        key: Rôle
         value: Software Engineer and Architect
     -
         key: Contexte

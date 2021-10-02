@@ -29,13 +29,13 @@ info:
         key: Status
         value: Discontinued
     -
-        key: Role
+        key: Rôle
         value: Software Engineer and Architect
     -
         key: Employment
         value: Self employed
     -
-        key: Skills involved
+        key: Compétences impliquées
         value:
             - Android SDK
             - Custom View Development
@@ -44,7 +44,7 @@ info:
             - Calculus
             - Geometry
     -
-        key: Tech used
+        key: Technologies utilisées
         value:
             - Java
             - Android SDK
