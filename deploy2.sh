@@ -1,7 +1,7 @@
 #!/bin/sh
 npm run docs:build
 
-cd docs\.vuepress\dist
+C:\laragon\www\Vuepress-Portfolio-Theme-master\docs\.vuepress\dist
 
 git init
 
