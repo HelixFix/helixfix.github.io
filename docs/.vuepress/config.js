@@ -22,7 +22,7 @@ module.exports = {
         ['meta', { name: 'theme-color', content: '#ffffff' }]
     ],
     plugins: [
-        '@vuepress/pwa',
+       
         [
             '@vuepress/google-analytics',
             {
