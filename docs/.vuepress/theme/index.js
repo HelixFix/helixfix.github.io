@@ -1,4 +1,13 @@
-module.exports = {
+module.exports = (options, ctx) => {
+    return {
+      // other code...
+      async ready() {
+        // Filter out draft posts in prod mode
+        if (ctx.isProd) {
+          ctx.pages.splice(0, ctx.pages.length, ...ctx.pages.filter(({ frontmatter }) => frontmatter.draft !== true))
+        }
+      },
+      
     plugins: [
         ['@vuepress/medium-zoom', {
             selector: '.portfolio-item-layout .content img,.medium-zoom'
@@ -16,4 +25,6 @@ module.exports = {
             defaultTitle: ""
         }]
     ]
+    }
+
 }
