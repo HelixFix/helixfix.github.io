@@ -1,5 +1,5 @@
 ---
-title: WeTransfer Like
+title: Bomberman
 lang: fr-FR
 tags:
     - Web Development
@@ -7,17 +7,11 @@ thumbnail: ./android-libs-thumb.png
 description: A website for finding useful Android development libraries.
 links:
     -
-        url: 'https://github.com/alamkanak/android-libraries-and-resources'
+        url: 'https://helixfix.github.io/'
         text: View on Github
         icon:
             - fab
             - github
-    -
-        url: 'https://alamkanak.github.io/android-libraries-and-resources'
-        text: Visit the site
-        icon:
-            - fas
-            - home
 info:
     -
         key: Rôle
@@ -29,13 +23,15 @@ info:
         key: Compétences impliquées
         value:
             - Web development
-            - Desktop Development
     -
         key: Technologies utilisées
         value:
+            - HTML
+            - CSS
             - Javascript
 date: '2019-12-04T00:00:00.000Z'
+draft: true
 ---
 ![An image](/android-libs.png)
 
-**Android libraries and resources** is a website developed for Android developers. The website is hosted on Github and in it, developers can easily find Android libraries they are looking for. The site supports searching by title, tags, authors or keywords.
+**Travail individuel** Créer un jeu où le joueur incarne un poseur de bombes, le but étant de faire exploser les adversaires/ennemis pour gagner.

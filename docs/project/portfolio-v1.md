@@ -29,6 +29,7 @@ info:
             - Javascript
             - Vue.js
 date: '2020-02-12T00:00:00.000Z'
+draft: true
 ---
 
 This project is the website you currently visiting. The site was developed to showcase skills of web development using Vue.js. Later, I decided to make the source code open source so that others like me can use the site.

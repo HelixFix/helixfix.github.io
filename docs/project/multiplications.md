@@ -7,11 +7,11 @@ thumbnail: ./gesture-thumb.png
 description: Deep learning model to recognize hand gestures from EMG signals.
 links:
     -
-        url: 'https://ieeexplore.ieee.org/document/8434493'
-        text: View IEEE publication
+        url: 'https://github.com/HelixFix/Tables-de-multiplication'
+        text: View on Github
         icon:
-            - fas
-            - book
+            - fab
+            - github
 info:
     -
         key: DOI
@@ -30,11 +30,12 @@ info:
     -
         key: Technologies utilisées
         value:
-            - Python
-            - MATLAB
-            - Tensorflow
+            - HTLM
+            - CSS
+            - PHP
 date: '2020-01-10T00:00:00.000Z'
+draft: true
 ---
 ![An image](/gesture.png)
 
-This is a project for recognizing hand gestures using EMG signals recorded from hands. Deep learning models were developed that can classify EMG signals. The outcome of the work has been published in an [IEEE conference](https://ieeexplore.ieee.org/document/8434493).
+**Travail individuel** Création d'un site avec du PHP qui permet aux utilisateurs de réviser leurs tables de multiplication.

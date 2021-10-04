@@ -7,11 +7,11 @@ thumbnail: ./easy-greeting-thumb.png
 description: An Android app that allows creating custom greeting cards.
 links:
     -
-        url: 'https://apkpure.com/easy-greeting-maker/com.mobiobject.easygreetingmaker.app'
-        text: Get it on third party app store
+        url: 'https://github.com/HelixFix/Projet1#projet1'
+        text: View on Github
         icon:
-            - fas
-            - store
+            - fab
+            - github
 info:
     -
         key: Status
@@ -33,39 +33,11 @@ info:
     -
         key: Technologies utilisées
         value:
-            - Java
-            - Android SDK
-            - Laravel
+            - HTML
+            - CSS
 date: '2019-11-08T15:54:26.000Z'
+draft: true
 ---
 ![An image](/easy-greeting.png)
 
-Easy Greeting Maker is an Android app that allows creating greeting cards in a custom view that supports editing images and texts. This application helps user to create or edit beautiful greeting cards with many clip arts and beautiful backgrounds. User can select the text message from predefined messages or type their own message. User can type his own message on card or select from list of predefined messages. With this amazing app you can do following things:
-
-### Features
-The notable app features are:
-- Option to set reminder for greeting cards.
-- Option to save your favorite cards.
-- Option to create greetings for lot of occasions.
-- Option to set multiple font and its sizes.
-- Option to re size or re arrange images and text positions.
-
-This Application provide different themes such as
-
-- Anniversary
-- Birthday
-- Christmas
-- Congratulations
-- Easter
-- Get well soon
-- Love
-- Miss You
-- New year
-- Thank you
-- Valentine
-
-<br/>
-
-::: youtube https://www.youtube.com/embed/0RqZXI2B1gI
-:::
-<br/>
+**Travail individuel** Réaliser un dictionnaire des balises composé de plusieurs pages.

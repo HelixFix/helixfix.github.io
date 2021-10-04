@@ -7,11 +7,11 @@ thumbnail: ./lifeline-thumb.png
 description: An app and website to connect blood donors with the ones that are in need.
 links:
     -
-        url: 'https://www.facebook.com/lifelinebd'
-        text: Visit facebook page
+        url: 'https://github.com/HelixFix/Integration-bootstrap'
+        text: View on Github
         icon:
             - fab
-            - facebook
+            - github
 info:
     -
         key: Status
@@ -32,22 +32,10 @@ info:
     -
         key: Technologies utilisées
         value:
-            - Java
-            - Android SDK
-            - PHP
-            - Laravel
-            - Google Maps API
-            - Google Places API
+            - HTML
+            - CSS
+            - Bootstrap
 date: '2019-11-27T00:00:00.000Z'
+draft: true
 ---
-::: youtube https://www.youtube.com/embed/gfj5ZsERJlk
-:::
-<br/>
-Lifeline consists of an Android app and a website that aims to connect blode donors with the people who are in urgent need of blood. The app provided service only in Bangladesh.
-<br/><br/>
-
-### Features
-- Request for blood with specific bloodtype
-- See the list of donors closest to you
-- Contact your donor
-- Navigate to your donor
+**Travail de groupe** Intégration d'une maquette

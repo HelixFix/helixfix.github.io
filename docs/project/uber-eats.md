@@ -35,6 +35,7 @@ info:
         value:
             - Javascript
 date: '2020-05-02T15:10:08.000Z'
+draft: true
 ---
 ![An image](/android-libs.png)
 

@@ -4,20 +4,14 @@ lang: fr-FR
 tags:
     - Web Development
 thumbnail: ./art-guide-thumb.png
-description: Learn how to draw with easy step-by-step animations and voiceovers.
+description: 'Création d''un site qui répertorie des films, travail de groupe sur trois semaine.'
 links:
     -
-        url: 'https://play.google.com/store/apps/details?id=io.github.alamkanak.artguide'
-        text: Get it on Google Play
+        url: 'https://github.com/joansor/AmericanMovies'
+        text: View on Github
         icon:
             - fab
-            - google-play
-    -
-        url: 'https://art-guide.github.io/art-guide-app-page/'
-        text: Visit Homepage
-        icon:
-            - fas
-            - home
+            - github
 info:
     -
         key: Rôle
@@ -39,30 +33,15 @@ info:
     -
         key: Technologies utilisées
         value:
-            - Kotlin
-            - Dagger
-            - Coroutines
-            - Android Architecture Components
-            - Android SDK
+            - HTML
+            - CSS
+            - PHP
+            - SQL
+            - TWIG
 date: '2020-02-14T01:00:00.000Z'
+draft: true
 ---
 ![Art Guide](/art-guide.png)
 
-Easy drawing tutorials for beginners. Learn how to draw using animations and voice guide.
+Création d'un site qui répertorie des films, travail de groupe sur trois semaine.
 
-##### Art tutorials
-Art Guide teaches you how to draw with clear, step-by-step animations and voiceovers.
-
-##### Large catalog
-Browse a catalog of free and paid handcrafted art tutorials including cartoon, human body, face, landscapes, still life, etc.
-
-##### Voice guide
-Each tutorial is crafted carefully by expert artists with interactive animations and computerized voiceovers.
-
-##### AI scoring assistant
-Use our automatic art comparison tool to see how good you are getting in art.
-
-##### Art Guide Premium
-Unlock the entire catalog of art tutorials with just one subscription. Boost your art skills by practicing daily. New artworks are added regularly and unlocked automatically for you.
-
-::: youtube https://www.youtube.com/embed/Oxmu2_rVbVc

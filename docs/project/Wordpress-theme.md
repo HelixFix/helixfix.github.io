@@ -1,5 +1,5 @@
 ---
-title: Allocadeau
+title: Theme Wordpress
 lang: fr-FR
 tags:
     - Web Development
@@ -7,11 +7,11 @@ thumbnail: ./sensex-thumb.png
 description: An app to provide direct access to real time stock market data.
 links:
     -
-        url: 'https://apk.support/app/com.omtayto.livestockandroid2'
-        text: Get it on third party app store
+        url: 'https://github.com/HelixFix/Theme-Wordpress'
+        text: View on Github
         icon:
-            - fas
-            - store
+            - fab
+            - github
 info:
     -
         key: Status
@@ -25,19 +25,15 @@ info:
     -
         key: Compétences impliquées
         value:
-            - Android SDK
             - Desktop Development
     -
         key: Technologies utilisées
         value:
-            - Java
-            - Android SDK
-            - Android Studio
-            - Performance Monitor
-            - Maven
+            - Wordpress
+            - Timber
 date: '2020-05-17T23:00:00.000Z'
 draft: true
 ---
 ![An image](/sensex.png)
 
-Sensex and nifty, this app will give you direct access to stock markets and a real time chat room to discuss stock movement and tips. Great to keep track of markets and your portfolio whether you are a new investor or an experienced FNO trader.
+**Travail individuel** Création d'un thème Wordpress pour le blog de la promo.

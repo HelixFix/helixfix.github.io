@@ -7,11 +7,11 @@ thumbnail: ./finance-bd-thumb.png
 description: An app to track your your stock market portfolio.
 links:
     -
-        url: 'https://hifipublic.com/2015/04/19/the-best-the-brightest-app-developers-of-bangladesh-honored/'
-        text: View featured article
+        url: 'https://github.com/HelixFix/ageConverter#ageconverter'
+        text: View on Github
         icon:
-            - fas
-            - newspaper
+            - fab
+            - github
 info:
     -
         key: Status
@@ -33,31 +33,10 @@ info:
     -
         key: Technologies utilisées
         value:
-            - Java
-            - Android SDK
-            - Android Studio
-            - Maven
-            - PHP
-            - Laravel
+            - JavaScript
 date: '2020-02-03T00:00:00.000Z'
+draft: true
 ---
 ![An image](/finance-bd.png)
 
-::: tip HIGHLIGHTS
-- Finance BD won the National Mobile Application App Award in Bangladesh
-- The app was one of the most popular finance app in Bangladesh
-:::
-
-Beat the stock market with Finance BD for Dhaka Stock Exchange (DSE), Bangladesh. Follow the stocks that you care about. See real-time profits and losses of the shares you own. The app is designed beautifully with nice looking graphs, effective navigation and intuitive functionality.
-
-### KEY FEATURES
-- See current price of all stocks of the DSE enlisted companies
-- Search and filter companies
-- See current state of DSE: top gainers, top losers, issues declined, issues advanced, issues unchanged etc.
-- Follow companies and add your purchase info to see them quickly in the favorites section
-- Add your share details to let the app automatically calculate profits and losses every time you launch it
-- Share calculator: manually calculate your profits and losses with share calculator
-- Companies: watch detail info of company with price history graphs
-- Customize the app: set the start up screen, broker house commission etc. to personalize the app
-
-All the hassles for reloading the DSE website and calculating your profits over and over again is now over. This app does all the hassles for you. It gives all the information you need with just a push of a button. Enjoy and rate the app.
+**Travail individuel**  Écriture d'un script qui convertit l'âge.
